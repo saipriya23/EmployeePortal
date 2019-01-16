@@ -1,0 +1,14 @@
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\bin\Debug\netcoreapp2.1\EmployeePortal.deps.json
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\bin\Debug\netcoreapp2.1\EmployeePortal.runtimeconfig.json
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\bin\Debug\netcoreapp2.1\EmployeePortal.runtimeconfig.dev.json
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\bin\Debug\netcoreapp2.1\EmployeePortal.dll
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\obj\Debug\netcoreapp2.1\EmployeePortal.csprojAssemblyReference.cache
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\obj\Debug\netcoreapp2.1\EmployeePortal.csproj.CoreCompileInputs.cache
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\obj\Debug\netcoreapp2.1\EmployeePortal.RazorAssemblyInfo.cache
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\obj\Debug\netcoreapp2.1\EmployeePortal.RazorAssemblyInfo.cs
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\obj\Debug\netcoreapp2.1\EmployeePortal.AssemblyInfoInputs.cache
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\obj\Debug\netcoreapp2.1\EmployeePortal.AssemblyInfo.cs
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\obj\Debug\netcoreapp2.1\EmployeePortal.RazorTargetAssemblyInfo.cache
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\bin\Debug\netcoreapp2.1\EmployeePortal.pdb
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\obj\Debug\netcoreapp2.1\EmployeePortal.dll
+C:\Users\saipriyak\source\repos\EmployeePortal\EmployeePortal\obj\Debug\netcoreapp2.1\EmployeePortal.pdb
